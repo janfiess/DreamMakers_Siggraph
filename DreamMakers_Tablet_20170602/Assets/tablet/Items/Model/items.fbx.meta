@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: cd17ec2adbb0e9845819d04e3cd301f2
+timeCreated: 1495483210
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anchor
+    100002: Canon
+    100004: Diamond
+    100006: Feather
+    100008: Heart
+    100010: Horseshoe
+    100012: //RootNode
+    100014: Moon
+    100016: Pencil
+    100018: PirateShip
+    100020: Rainbow
+    100022: RainClouds
+    100024: SpaceShip
+    100026: Star
+    100028: Sun
+    100030: UnicornHead
+    100032: Horse
+    100034: Pegasus
+    100036: Bird
+    100038: Phoenix
+    100040: Pillow
+    100042: Fish
+    100044: Mermaid
+    100046: Bikini
+    400000: Anchor
+    400002: Canon
+    400004: Diamond
+    400006: Feather
+    400008: Heart
+    400010: Horseshoe
+    400012: //RootNode
+    400014: Moon
+    400016: Pencil
+    400018: PirateShip
+    400020: Rainbow
+    400022: RainClouds
+    400024: SpaceShip
+    400026: Star
+    400028: Sun
+    400030: UnicornHead
+    400032: Horse
+    400034: Pegasus
+    400036: Bird
+    400038: Phoenix
+    400040: Pillow
+    400042: Fish
+    400044: Mermaid
+    400046: Bikini
+    2300000: Anchor
+    2300002: Canon
+    2300004: Diamond
+    2300006: Feather
+    2300008: Heart
+    2300010: Horseshoe
+    2300012: Moon
+    2300014: Pencil
+    2300016: PirateShip
+    2300018: Rainbow
+    2300020: RainClouds
+    2300022: SpaceShip
+    2300024: Star
+    2300026: Sun
+    2300028: UnicornHead
+    2300030: Horse
+    2300032: Pegasus
+    2300034: Bird
+    2300036: Phoenix
+    2300038: Pillow
+    2300040: Fish
+    2300042: Mermaid
+    2300044: Bikini
+    3300000: Anchor
+    3300002: Canon
+    3300004: Diamond
+    3300006: Feather
+    3300008: Heart
+    3300010: Horseshoe
+    3300012: Moon
+    3300014: Pencil
+    3300016: PirateShip
+    3300018: Rainbow
+    3300020: RainClouds
+    3300022: SpaceShip
+    3300024: Star
+    3300026: Sun
+    3300028: UnicornHead
+    3300030: Horse
+    3300032: Pegasus
+    3300034: Bird
+    3300036: Phoenix
+    3300038: Pillow
+    3300040: Fish
+    3300042: Mermaid
+    3300044: Bikini
+    4300000: Heart
+    4300002: Pencil
+    4300004: UnicornHead
+    4300006: Sun
+    4300008: Star
+    4300010: Horseshoe
+    4300012: Feather
+    4300014: Canon
+    4300016: Moon
+    4300018: Anchor
+    4300020: PirateShip
+    4300022: SpaceShip
+    4300024: RainClouds
+    4300026: Diamond
+    4300028: Rainbow
+    4300030: Pegasus
+    4300032: Horse
+    4300034: Phoenix
+    4300036: Bird
+    4300038: Pillow
+    4300040: Mermaid
+    4300042: Fish
+    4300044: Bikini
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
